@@ -46,7 +46,7 @@ THEN when the completed webpage mathces the mockup
 
 
 
-##💡 Mock-Up 
+## 💡 Mock-Up
 
 The following image shows the web application's appearance and functionality (Browser View on a Desktop): 
 
