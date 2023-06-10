@@ -21,7 +21,7 @@ For this challenge, the goal is to refactor code to create an application that f
 🏆 Individual Work 🏆: Focus on this User Story 🏆 : 
 
 
-## 💡 User Story
+## 💡User Story
 
 AS A Bootcamp student with backgorund knowledge with HTML and CSS
 I WANT to refactor the starter code to ensure the final, revised code mathces the mockup's appearance and functionality. 
